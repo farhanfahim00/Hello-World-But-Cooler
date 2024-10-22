@@ -1,1 +1,2 @@
 # Hello-World-But-Cooler
+Printing "Hello, World!" the usual way was too simple, so I decided to make it cooler! This script takes a target string (like "hello world") and randomly selects characters from the alphabet (including spaces) until it matches the string one letter at a time. Each correct letter is added to the result, and the process is repeated with a small delay to create a typing effect. It turns a mundane print statement into a suspenseful, character-by-character reveal!
